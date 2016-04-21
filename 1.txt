@@ -3,7 +3,13 @@ void main(){
 	int i = 10;
 	for(;i>0;i--)
 	{
-		printf("i = %d",i);
+		printf("i = %d\n",i);
+	}
+
+	int n = 0;
+	for(;n<10;n++)
+	{
+		printf("n = %d\n",n);
 	}
 }
 
